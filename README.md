@@ -69,6 +69,8 @@ We envision a future where athletes, collectors, and sport enthusiasts can trade
 - Contract Address: https://stellar.expert/explorer/testnet/contract/CAJH6FQ5T7DFKHH7XHPQRIEBLL3SAOM6BSBNHUIEIVF7KFHFPCTWWP6F
 - Network: Stellar Soroban (Testnet / Mainnet)
 - Language: Rust + Soroban SDK
+<img width="1774" height="1114" alt="image" src="https://github.com/user-attachments/assets/0be74826-b1a1-4f7d-9bde-a10814edaf1b" />
+
 
 ## Sport Categories Supported
 
